@@ -1,0 +1,26 @@
+# Created by Octave 3.4.0, Tue May 22 22:16:14 2012 IST <cibehariharan@Cibe-HariharanKs-MacBook-Pro.local>
+# name: X
+# type: matrix
+# rows: 5
+# columns: 2
+ 1 1
+ 1 2
+ 1 3
+ 1 4
+ 1 5
+
+
+# name: y
+# type: matrix
+# rows: 1
+# columns: 5
+ 3 5 7 9 11
+
+
+# name: theta
+# type: matrix
+# rows: 1
+# columns: 2
+ 1 2
+
+
